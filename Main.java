@@ -1,5 +1,3 @@
-package com.leschev.interview;
-
 public class Main {
 
     static Integer counter;
